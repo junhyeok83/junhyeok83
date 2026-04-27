@@ -32,7 +32,9 @@
 
 | Project | Description |
 |---------|-------------|
+| [mini-ecommerce](https://github.com/junhyeok83/mini-ecommerce) | Mini E-Commerce API - Spring Boot / JPA / JWT |
 | [happyweb](https://github.com/junhyeok83/happyweb) | HappyTree Technical Academy - Next.js 15 / Supabase |
+| [vocat2](https://github.com/junhyeok83/vocat2) | AI Vocabulary App - Next.js / AI SDK / Supabase |
 | [trip](https://github.com/junhyeok83/trip) | Trip Planner - React / Vite / Leaflet Maps |
 | [junhyeok83.github.io](https://github.com/junhyeok83/junhyeok83.github.io) | Portfolio Website |
 | [gameproject](https://github.com/junhyeok83/gameproject) | Python Game Project |
